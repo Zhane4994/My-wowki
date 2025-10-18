@@ -17,11 +17,11 @@ project:
 pinout:
   # Inputs
   ui[0]: "input a"
-  ui[1]: "input a"
-  ui[2]: "input b"
-  ui[3]: "input b"
-  ui[4]: "input c"
-  ui[5]: "input c"
+  ui[1]: "input b"
+  ui[2]: "input c"
+  ui[3]: "input d"
+  ui[4]: "input e"
+  ui[5]: "input f"
   ui[6]: ""
   ui[7]: ""
 
