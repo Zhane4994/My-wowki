@@ -9,14 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
 NAND is connected to input 0 and 1 which is connected to output 0
 AND is connected to input 2 and 3 which is connected to output 1
 OR is connected to input 4 and 5 which is connected to output 2
 
 ## How to test
 
-Explain how to use your project
 
 |Input a & b| Output NAND|Input c & d| Output AND| Input e & f| Output OR|
 |-----------|------------|-----------|-----------|------------|----------|
