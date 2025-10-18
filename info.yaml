@@ -17,21 +17,21 @@ project:
 pinout:
   # Inputs
   ui[0]: "input a"
-  ui[1]: "input b"
-  ui[2]: ""
-  ui[3]: ""
-  ui[4]: ""
-  ui[5]: ""
+  ui[1]: "input a"
+  ui[2]: "input b"
+  ui[3]: "input b"
+  ui[4]: "input c"
+  ui[5]: "input c"
   ui[6]: ""
   ui[7]: ""
 
   # Outputs
   uo[0]: "output nand"
-  uo[1]: "output and"
-  uo[2]: "output or"
-  uo[3]: "output clock div 16"
-  uo[4]: "output clock div 12"
-  uo[5]: ""
+  uo[1]: "output nand"
+  uo[2]: "output and"
+  uo[3]: "output and"
+  uo[4]: "output or"
+  uo[5]: "output or"
   uo[6]: ""
   uo[7]: ""
 
